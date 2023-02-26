@@ -1,5 +1,5 @@
 {
- "name": "miku-md",
+ "name": "༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆",
  "description": "Multi Device Whatsapp Bot By Fantox",
  "version": "3.0.0",
  "main": "index.js",
@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "Fantox (FantoX001)",
+ "author": "༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.4.0",
